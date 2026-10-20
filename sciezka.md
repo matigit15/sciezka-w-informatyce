@@ -6,3 +6,5 @@ Jestem poczatkujacym w branzy it i dopiero rozwijam swoje umiejetnosci
 * Znam Pythona i sqla na poziomie maturanym
 * Potrafie obslugiwac excela oraz accesa
 ## Cele rozwojowe
+* Zostanie jednym z lepszych programistow
+* Zdobycie dobrego zawodu
